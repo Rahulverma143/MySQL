@@ -74,13 +74,12 @@ Advanced Concepts
 🎯 Who Is This For?
 
 - beginners learning mysql
-- students practicing sql queries
-- anyone preparing for sql interviews
-- developers revising mysql fundamentals
+- practicing sql queries
+
 
 --------------------------------------------------
 
 📌 Note
 
 This repository is created for learning and practice purposes.
-Feel free to explore, practice, and improve your SQL skills.
+
