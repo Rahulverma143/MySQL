@@ -1,3 +1,4 @@
+-- String function
 -- Use the sakila database
 USE sakila;
 
